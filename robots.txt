@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jflorezm.github.io/al-folio/sitemap.xml
+Sitemap: https://jflorezm-git.github.io/al-folio/sitemap.xml

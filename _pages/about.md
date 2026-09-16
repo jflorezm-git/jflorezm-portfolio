@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am passionate about robotics and autonomous systems. My main research interest is bio-inspired robotics, but my work covers a bit of everything, I have worked with high-voltage soft actuators at the Max Planck Institute for Intelligent Systems (Robotic Materials Dept.) as a [RIGI Alumnus] (https://rig-internships.de/en/news/joel-florez), At Purdue University as an [UREP-C Alumnus] (https://www.purdue.edu/colombia/research-mobility/programs/UREP-C%202023-2.pdf#page=67) I learned UAV and GIS tools for forestry health monitoring, brought those insights back home to Barranquilla to work alongside the city in preserving our tropical dry forests. Along this fascinating journey of knowledge I have built many hands-on [projects] (/jflorezm-portfolio/projects/).
+I am passionate about robotics and autonomous systems. My main research interest is bio-inspired robotics, but my work covers a bit of everything, I have worked with high-voltage soft actuators at the Max Planck Institute for Intelligent Systems (Robotic Materials Dept.) as a [RIGI Alumnus](https://rig-internships.de/en/news/joel-florez), At Purdue University as an [UREP-C Alumnus](https://www.purdue.edu/colombia/research-mobility/programs/UREP-C%202023-2.pdf#page=67) I learned UAV and GIS tools for forestry health monitoring, brought those insights back home to Barranquilla to work alongside the city in preserving our tropical dry forests. Along this fascinating journey of knowledge I have built many hands-on [projects](/jflorezm-portfolio/projects/).
 
 I am currently working at IUB (my alma mater) building software tools to automate internal research processes and optimize operations.
 
@@ -33,8 +33,4 @@ I constantly try to put myself in environments where I can learn from people aro
 In my free time, I enjoy swimming, practicing karate, tinkering with personal projects, or learning exciting facts about random topics. Feel free to take a look around my portfolio and reach out if you'd like to chat! 
 
 
-[comment]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)

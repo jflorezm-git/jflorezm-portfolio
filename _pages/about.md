@@ -2,10 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechatronic Engineer
-<!--
-<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
--->
+subtitle: Mechatronic Engineer # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -32,11 +30,11 @@ I am currently working at IUB (my alma mater) building software tools to automat
 
 I constantly try to put myself in environments where I can learn from people around me and apply that knowledge to build something new. I believe innovation and discovery happen when different disciplines combine their knowledge to solve real problems.
 
-In my free time, I enjoy swimming, practicing karate, tinkering with personal projects, or learning exciting facts about random topics. Feel free to take a look around my portfolio and reach out if you'd like to chat!
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In my free time, I enjoy swimming, practicing karate, tinkering with personal projects, or learning exciting facts about random topics. Feel free to take a look around my portfolio and reach out if you'd like to chat! 
+
+
+# (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
